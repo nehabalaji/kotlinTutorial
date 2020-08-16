@@ -9,5 +9,14 @@ fun main(){
     println("The value of another variable is: $anotherVariable")
     println("The sum of the two variables are ${myVariable+anotherVariable}")
     val s = "This is a string!"
-    println("The given string is: $s")
+    println("The given string is: ${s.toUpperCase().reversed()}")
+    println(myVariable==anotherVariable)
+
+    val x=12
+    val y=13
+    if (x>y){
+        println("Hello There")
+    }else{
+        println("how you doin?")
+    }
 }
