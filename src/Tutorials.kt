@@ -20,5 +20,12 @@ fun main(){
         println("how you doin?")
     }
 
+    val arr = arrayOf("Hello", "Guys", "WhatsUp?")
+    val arrLength = arr.size
+    var i =0;
 
+    while(i<arrLength){
+        println(arr[i])
+        i++
+    }
 }
