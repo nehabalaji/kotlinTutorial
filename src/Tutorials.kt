@@ -28,4 +28,5 @@ fun main(){
         println(arr[i])
         i++
     }
+
 }
