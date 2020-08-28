@@ -28,4 +28,8 @@ fun main(){
         println(arr[i])
         i++
     }
+
+    for (i in arr){
+        println(i)
+    }
 }
