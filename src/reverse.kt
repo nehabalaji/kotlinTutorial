@@ -10,5 +10,4 @@ fun main(){
     for (i in list[4] downTo list[0]){
         println(i)
     }
-
 }
