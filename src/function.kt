@@ -19,4 +19,5 @@ fun pow(b: Int, p: Int): Int{
         r*=b
     }
     return r
+
 }
