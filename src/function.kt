@@ -13,6 +13,7 @@ fun sum(n1: Int, n2:Int){
     println(sum)
 }
 
+
 fun pow(b: Int, p: Int): Int{
     var r = 1
     for (i in 1..p){
